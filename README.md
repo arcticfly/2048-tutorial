@@ -1,1 +1,1 @@
-# 2048-practice
+# 2048-tutorial

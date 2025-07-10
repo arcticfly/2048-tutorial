@@ -1,6 +1,6 @@
 # 2048 AI Training Tutorial
 
-Train Qwen 2.5 3B to play 2048 using reinforcement learning with OpenPipe Art!
+Train Qwen 2.5 3B to play 2048 using reinforcement learning with OpenPipe ART!
 
 ## 🎯 Project Overview
 
@@ -9,7 +9,7 @@ This project demonstrates how to train a language model to play the classic 2048
 ## 🚀 Features
 
 - **Custom 2048 Game Implementation**: Complete game logic with board rendering and move validation
-- **Reinforcement Learning Training**: Uses OpenPipe Art framework for training LLMs
+- **Reinforcement Learning Training**: Uses OpenPipe ART framework for training LLMs
 - **Reward System**: Sophisticated reward calculation that encourages winning and high-value tiles
 - **Benchmarking**: Compare your trained model against GPT-4o, GPT-4o-mini, and GPT-4.1
 - **Interactive Visualization**: Jupyter notebook for analyzing training results
@@ -18,7 +18,7 @@ This project demonstrates how to train a language model to play the classic 2048
 
 - Python 3.10+
 - OpenRouter API key (for benchmarking against GPT models)
-- OpenPipe Art framework
+- OpenPipe ART framework
 
 ## 🛠️ Installation
 
@@ -171,6 +171,6 @@ This project is for educational purposes. Check individual dependencies for thei
 
 ## 🙏 Acknowledgments
 
-- Built with [OpenPipe Art](https://github.com/OpenPipe/OpenPipe) for LLM training
+- Built with [OpenPipe ART](https://github.com/OpenPipe/OpenPipe) for LLM training
 - Uses [Weave](https://github.com/wandb/weave) for experiment tracking
 - Inspired by the classic 2048 game by Gabriele Cirulli

@@ -1,4 +1,4 @@
-# 2048 AI Training Tutorial
+# 2048 AI Training Tutorial Skeleton
 
 Train Qwen 2.5 3B to play 2048 using reinforcement learning with [ART](https://github.com/OpenPipe/art)!
 
